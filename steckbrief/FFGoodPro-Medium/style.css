@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'FF Good Pro';
+    src: local('FF Good Pro Medium'), local('FF-Good-Pro-Medium'),
+        url('FFGoodPro-Medium.woff2') format('woff2'),
+        url('FFGoodPro-Medium.woff') format('woff'),
+        url('FFGoodPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'FF Good Pro';
+    src: local('FF Good Pro Medium'), local('FF-Good-Pro-Medium'),
+        url('FFGoodPro-Medium.woff2') format('woff2'),
+        url('FFGoodPro-Medium.woff') format('woff'),
+        url('FFGoodPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }

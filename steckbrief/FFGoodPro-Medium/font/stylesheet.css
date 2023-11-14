@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'FF Good Pro Comp';
+    src: url('FFGoodProComp-BoldItalic.eot');
+    src: local('FF Good Pro Comp Bold Italic'), local('FFGoodProComp-BoldItalic'),
+        url('FFGoodProComp-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-BoldItalic.woff2') format('woff2'),
+        url('FFGoodProComp-BoldItalic.woff') format('woff'),
+        url('FFGoodProComp-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp';
+    src: url('FFGoodProComp-Bold.eot');
+    src: local('FF Good Pro Comp Bold'), local('FFGoodProComp-Bold'),
+        url('FFGoodProComp-Bold.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-Bold.woff2') format('woff2'),
+        url('FFGoodProComp-Bold.woff') format('woff'),
+        url('FFGoodProComp-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp';
+    src: url('FFGoodProComp-BlackItalic.eot');
+    src: local('FF Good Pro Comp Black Italic'), local('FFGoodProComp-BlackItalic'),
+        url('FFGoodProComp-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-BlackItalic.woff2') format('woff2'),
+        url('FFGoodProComp-BlackItalic.woff') format('woff'),
+        url('FFGoodProComp-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp';
+    src: url('FFGoodProComp-Black.eot');
+    src: local('FF Good Pro Comp Black'), local('FFGoodProComp-Black'),
+        url('FFGoodProComp-Black.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-Black.woff2') format('woff2'),
+        url('FFGoodProComp-Black.woff') format('woff'),
+        url('FFGoodProComp-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp';
+    src: url('FFGoodProComp-Medium.eot');
+    src: local('FF Good Pro Comp Medium'), local('FFGoodProComp-Medium'),
+        url('FFGoodProComp-Medium.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-Medium.woff2') format('woff2'),
+        url('FFGoodProComp-Medium.woff') format('woff'),
+        url('FFGoodProComp-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp';
+    src: url('FFGoodProComp-Regular.eot');
+    src: local('FF Good Pro Comp'), local('FFGoodProComp-Regular'),
+        url('FFGoodProComp-Regular.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-Regular.woff2') format('woff2'),
+        url('FFGoodProComp-Regular.woff') format('woff'),
+        url('FFGoodProComp-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp';
+    src: url('FFGoodProComp-Light.eot');
+    src: local('FF Good Pro Comp Light'), local('FFGoodProComp-Light'),
+        url('FFGoodProComp-Light.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-Light.woff2') format('woff2'),
+        url('FFGoodProComp-Light.woff') format('woff'),
+        url('FFGoodProComp-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp';
+    src: url('FFGoodProComp-MediumItalic.eot');
+    src: local('FF Good Pro Comp Medium Italic'), local('FFGoodProComp-MediumItalic'),
+        url('FFGoodProComp-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-MediumItalic.woff2') format('woff2'),
+        url('FFGoodProComp-MediumItalic.woff') format('woff'),
+        url('FFGoodProComp-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp Ultra';
+    src: url('FFGoodProComp-Ultra.eot');
+    src: local('FF Good Pro Comp Ultra'), local('FFGoodProComp-Ultra'),
+        url('FFGoodProComp-Ultra.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-Ultra.woff2') format('woff2'),
+        url('FFGoodProComp-Ultra.woff') format('woff'),
+        url('FFGoodProComp-Ultra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp News';
+    src: url('FFGoodProComp-NewsItalic.eot');
+    src: local('FF Good Pro Comp News Italic'), local('FFGoodProComp-NewsItalic'),
+        url('FFGoodProComp-NewsItalic.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-NewsItalic.woff2') format('woff2'),
+        url('FFGoodProComp-NewsItalic.woff') format('woff'),
+        url('FFGoodProComp-NewsItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp';
+    src: url('FFGoodProComp-Italic.eot');
+    src: local('FF Good Pro Comp Italic'), local('FFGoodProComp-Italic'),
+        url('FFGoodProComp-Italic.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-Italic.woff2') format('woff2'),
+        url('FFGoodProComp-Italic.woff') format('woff'),
+        url('FFGoodProComp-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp';
+    src: url('FFGoodProComp-LightItalic.eot');
+    src: local('FF Good Pro Comp Light Italic'), local('FFGoodProComp-LightItalic'),
+        url('FFGoodProComp-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-LightItalic.woff2') format('woff2'),
+        url('FFGoodProComp-LightItalic.woff') format('woff'),
+        url('FFGoodProComp-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp Ultra';
+    src: url('FFGoodProComp-UltraItalic.eot');
+    src: local('FF Good Pro Comp Ultra Italic'), local('FFGoodProComp-UltraItalic'),
+        url('FFGoodProComp-UltraItalic.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-UltraItalic.woff2') format('woff2'),
+        url('FFGoodProComp-UltraItalic.woff') format('woff'),
+        url('FFGoodProComp-UltraItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FF Good Pro Comp News';
+    src: url('FFGoodProComp-News.eot');
+    src: local('FF Good Pro Comp News'), local('FFGoodProComp-News'),
+        url('FFGoodProComp-News.eot?#iefix') format('embedded-opentype'),
+        url('FFGoodProComp-News.woff2') format('woff2'),
+        url('FFGoodProComp-News.woff') format('woff'),
+        url('FFGoodProComp-News.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
