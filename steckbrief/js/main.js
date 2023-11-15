@@ -53,13 +53,17 @@ function sizeHeaderAndTop() {
 
     let allPInRow3 = document.querySelectorAll('.row3 .bottom p')
     let row3 = document.querySelector('.row3')
+    let description = document.querySelector(".row3 .bottom .left p")
     for (let p of allPInRow3) {
         p.addEventListener('mouseover', function(e) {
             let color = e.target.getAttribute('data')
+            let text = e.target.innerHTML
+            console.log(text)
             console.log(color)
             if (color) {
                 row3.classList.remove(row3.classList[1])
                 row3.classList.add(color)
+                description.innerHTML = text;
             }
         })
     }
