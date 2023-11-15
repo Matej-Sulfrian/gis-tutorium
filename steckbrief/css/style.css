@@ -961,6 +961,11 @@ footer p {
         padding: 10px 0;
     }
 
+    header p:hover {
+        transform: translateY(-2px);
+        margin-bottom: 4px;
+    }
+
     .topHead .topContent {
         width: 60%;
     }
