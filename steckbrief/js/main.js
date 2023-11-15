@@ -63,7 +63,9 @@ function sizeHeaderAndTop() {
             if (color) {
                 row3.classList.remove(row3.classList[1])
                 row3.classList.add(color)
-                description.innerHTML = text;
+                description.innerHTML = text
+                description.classList.remove(description.classList[0])
+                description.classList.add(color)
             }
         })
     }
@@ -134,18 +136,17 @@ function elementInViewport2(el) {
 }
 
 function setAnchorListeners() {
-    let allA = document.querySelectorAll('a')
-
-    console.log(allA)
-
     document.querySelectorAll("a").forEach((a) => {
         a.addEventListener("click", function (e) {
             let target= a.getAttribute('action')
+            let screenWidth = window.innerWidth
             console.log(target)
             if (target) {
+                if (target == ".row2 .bottom" && screenWidth <= 485) {
+                    target = ".row2"
+                }
                 document.querySelector(target).scrollIntoView({behavior: "smooth", block: "start"})
             }
-
         })
     })
 }
